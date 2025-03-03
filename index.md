@@ -1,4 +1,2 @@
 ---
-title: Welcome to First my blog
----
-
+title: Welcome to my GitHub page
